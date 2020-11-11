@@ -8,4 +8,4 @@
 
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emresr&theme=monokai" alt="emresr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emresr&theme=monokai&margin-w=15&column=3" alt="emresr" /></a> </p>
