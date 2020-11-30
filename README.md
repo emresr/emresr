@@ -1,5 +1,5 @@
 <h3 align="center">Fulltime JS learner</h3>
-<h3 align="center">Converting Metal to Code</h3>
+<h5 align="center">Converting Metal to Code</h5>
 <div align="center">
 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
