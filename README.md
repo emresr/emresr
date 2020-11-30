@@ -1,4 +1,4 @@
-<h2 align="center">Fulltime JS learner</h2>
+<h3 align="center">Fulltime JS learner</h3>
 <h3 align="center">Converting Metal to Code</h3>
 
 <div align="center">
