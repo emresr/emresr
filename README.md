@@ -1,11 +1,15 @@
 <div align="center">
-<h3 align="center">Fulltime JS learner
+<h3 align="center">JS Lover
 </h3>
 
 <h3 align="center">
 Converting Metal to Code
 </h3>
-
+<p align="center">
+<a href="https://dev.to/emresr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="emresr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/emresr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="emresr" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/emresr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="emresr" height="30" width="40" /></a>
+</p>
 
 
 
@@ -14,3 +18,9 @@ Converting Metal to Code
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emresr&show_icons=true&locale=en&layout=compact" alt="emresr" /></p>
 </div>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emresr&" alt="emresr" /></p>
+
+
