@@ -4,7 +4,7 @@
 
 <h3 align="center">
  
-Converting Metal to Code
+Turning metal into code
 </h3>
 <p align="center">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
