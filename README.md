@@ -1,11 +1,11 @@
 <div align="center">
-<h3 align="center">JS Lover
 </h3>
 
 <h3 align="center">
  
 Turning metal into code
 </h3>
+
 <p align="center">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
@@ -20,7 +20,6 @@ Turning metal into code
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emresr&" alt="emresr" /></p>
 </div>
 
 
