@@ -3,7 +3,7 @@
 
 <h3 align="center">
  
-Turning metal into code
+Hi its Emre just a Javascript lover
 </h3>
 
 <p align="center">
