@@ -3,7 +3,7 @@
 
 <h3 align="center">
  
-Hi its Emre just a Javascript lover
+Just a Javascript developer
 </h3>
 
 
