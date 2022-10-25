@@ -15,3 +15,4 @@ Just a Javascript developer
 
 
 
+![snake gif](https://github.com/emresr/emresr/blob/output/github-contribution-grid-snake.svg)
